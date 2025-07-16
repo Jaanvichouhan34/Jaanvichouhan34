@@ -7,6 +7,7 @@ I’m passionate about coding, design, and learning new technologies like **Pyth
 
 I enjoy turning ideas into creative, real-world projects and constantly exploring new tools to grow as a developer.
 
+> *"Design. Code. Create. Repeat."*
 ---
 
 ## 🔥 GitHub Stats
@@ -34,6 +35,23 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 
 ---
 
+## 👑 Roles & Badges
+
+![Frontend Developer](https://img.shields.io/badge/-Frontend_Dev-blueviolet?style=for-the-badge)
+![UI/UX Learner](https://img.shields.io/badge/-UI/UX_Learner-f472b6?style=for-the-badge)
+![Creative Coder](https://img.shields.io/badge/-Creative_Coder-ffb6c1?style=for-the-badge)
+
+---
+
+## 🧠 Learning & Goals
+
+- 📘 Mastering Python for real-world apps
+- 🎨 Practicing UI/UX with Figma & Tailwind CSS
+- 📸 Exploring OpenCV for image tasks
+- 🚀 Building creative and fun personal projects
+
+---
+
 ## 📁 My Projects
 
 - 🚀 AI-Based Satellite Feature Detection (Hackathon)
@@ -46,3 +64,9 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 
 - 🌐 Instagram: [@jaanvi_chouhan18](https://www.instagram.com/jaanvi_chouhan18)
 - 💼 LinkedIn: [Jaanvi Chouhan](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=radical)
