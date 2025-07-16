@@ -1,16 +1,13 @@
 # 👋 Hi, I'm Jaanvi Chouhan
 
-### 💻 Aspiring Software Engineer | 3rd Year B.Tech CSE | Dreaming to Join Indian Air Force 🇮🇳
-
----
-
 ## 👩‍💻 About Me :-
 
 I'm **Jaanvi Chouhan**, a 3rd-year B.Tech CSE student at **Medicaps University**.  
-I’m passionate about coding, design, and learning new technologies like **Python**, **OpenCV**, **Figma**, and **Web Dev**.
+I’m passionate about coding, design, and learning new technologies like **Python**, **OpenCV**, **Figma**, and **Web Development**.
 
-Inspired by my Army background, I'm preparing for **AFCAT** to join the **Indian Air Force** 🇮🇳  
-I love building creative projects and turning ideas into reality!
+I enjoy turning ideas into creative, real-world projects and constantly exploring new tools to grow as a developer.
+
+---
 
 ## 🔥 GitHub Stats
 
@@ -37,20 +34,15 @@ I love building creative projects and turning ideas into reality!
 
 ---
 
-### 🌱 Learning:
-- OpenCV, Tailwind CSS, Figma, and Advanced Python
-- Preparing for AFCAT & SSB 🇮🇳
+## 📁 My Projects
+
+- 🚀 AI-Based Satellite Feature Detection (Hackathon)
+- 🎙️ Nova-style Voice Assistant Clone
+- 🧁 Biscuit Cake App (fun mini project)
 
 ---
 
-### 📫 Connect with me:
+## 📫 Connect with Me
+
 - 🌐 Instagram: [@jaanvi_chouhan18](https://www.instagram.com/jaanvi_chouhan18)
 - 💼 LinkedIn: [Jaanvi Chouhan](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
-
----
-
-### 🧩 My Projects
-
-- 🚀 AI-Driven Satellite Feature Detection (Hackathon)
-- 🧁 Biscuit Cake App (Fun Project)
-- 🎙️ Nova-style Voice Assistant Clone
