@@ -20,6 +20,21 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jaanvichouhan34&theme=radical&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🧠 Learning & Goals
+
+- 📘 Mastering Python for real-world apps
+- 🎨 Practicing UI/UX with Figma & Tailwind CSS
+- 📸 Exploring OpenCV for image tasks
+- 🚀 Building creative and fun personal projects
+
+---
+
 ## 🎯 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaanvichouhan34&layout=pie&theme=radical)
@@ -45,20 +60,21 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 
 ---
 
-## 🧠 Learning & Goals
-
-- 📘 Mastering Python for real-world apps
-- 🎨 Practicing UI/UX with Figma & Tailwind CSS
-- 📸 Exploring OpenCV for image tasks
-- 🚀 Building creative and fun personal projects
-
----
-
 ## 📁 My Projects
 
 - 🚀 AI-Based Satellite Feature Detection (Hackathon)
 - 🎙️ Nova-style Voice Assistant Clone
 - 🧁 Biscuit Cake App (fun mini project)
+
+---
+
+## ✨ Fun Facts About Me
+
+- 🧋 I love clean UI design
+- 🎥 I enjoy editing aesthetic videos
+- 🧁 I once made a cake using biscuits and Python 🤭
+
+> *“Code is my canvas, creativity is my tool.”*
 
 ---
 
