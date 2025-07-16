@@ -4,6 +4,14 @@
 
 ---
 
+## 👩‍💻 About Me :-
+
+I'm **Jaanvi Chouhan**, a 3rd-year B.Tech CSE student at **Medicaps University**.  
+I’m passionate about coding, design, and learning new technologies like **Python**, **OpenCV**, **Figma**, and **Web Dev**.
+
+Inspired by my Army background, I'm preparing for **AFCAT** to join the **Indian Air Force** 🇮🇳  
+I love building creative projects and turning ideas into reality!
+
 ## 🔥 GitHub Stats
 
 ![Jaanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaanvichouhan34&show_icons=true&theme=radical)
