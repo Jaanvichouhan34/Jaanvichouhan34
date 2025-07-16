@@ -26,12 +26,6 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 
 ---
 
-## 📅 GitHub Activity
-
-![Jaanvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=react-dark&area=true&hide_border=true)
-
----
-
 ## 🧠 Learning & Goals
 
 - 📘 Mastering Python for real-world apps
@@ -87,6 +81,9 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 ## 📅 GitHub Activity
 ![Jaanvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=react-dark&area=true&hide_border=true)
 
+## 📅 GitHub Activity
+
+![Jaanvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=dracula&area=true&color=ff6ec7&line=00bfff&point=ff0000&hide_border=true)
 ---
 
 ## 📫 Connect with Me
@@ -94,8 +91,3 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 - 🌐 Instagram: [@jaanvi_chouhan18](https://www.instagram.com/jaanvi_chouhan18)
 - 💼 LinkedIn: [Jaanvi Chouhan](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
 
----
-
-## 📈 GitHub Activity
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=radical)
