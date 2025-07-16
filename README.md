@@ -84,6 +84,11 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 
 ---
 
+## 📅 GitHub Activity
+![Jaanvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=react-dark&area=true&hide_border=true)
+
+---
+
 ## 📫 Connect with Me
 
 - 🌐 Instagram: [@jaanvi_chouhan18](https://www.instagram.com/jaanvi_chouhan18)
