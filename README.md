@@ -53,11 +53,8 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 ---
 
 ## 👑 Roles & Badges
----
 
----
-
-## ☁️ Google Cloud Arcade Achievements
+### ☁️ Google Cloud Arcade Achievements
 
 🎯 Participating in Google Cloud Arcade – August 2025
 
