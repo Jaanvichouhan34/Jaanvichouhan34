@@ -55,15 +55,18 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 ## 👑 Roles & Badges
 ---
 
+---
+
 ## ☁️ Google Cloud Arcade Achievements
 
-![Trivia Week 2 – Aug 2025](https://img.shields.io/badge/RK_Trivia_Week_2–Aug_2025-blue?style=for-the-badge)
-![Trivia Week 4 – Aug 2025](https://img.shields.io/badge/RK_Trivia_Week_4–Aug_2025-green?style=for-the-badge)
+🎯 Participating in Google Cloud Arcade – August 2025
 
-- ✅ Earned **Trivia August 2025 Week 2** badge  
-- ✅ Earned **Trivia August 2025 Week 4** badge  
-- 🎯 Credits: participating and stacking progress in Arcade  
-- 🔗 [View my Skill Boost profile](https://www.cloudskillsboost.google/public_profiles/d23f26ee-0383-4705-9a25-aed6766d92d5)
+### 🏅 Earned Badges:
+
+<img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%202.png" alt="Trivia Week 2 Badge" width="200"/>
+<img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%204.png" alt="Trivia Week 4 Badge" width="200"/>
+
+🔗 [View My Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/d23f26ee-0383-4705-9a25-aed6766d92d5)
 
 ![Frontend Developer](https://img.shields.io/badge/-Frontend_Dev-blueviolet?style=for-the-badge)
 ![UI/UX Learner](https://img.shields.io/badge/-UI/UX_Learner-f472b6?style=for-the-badge)
