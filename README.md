@@ -54,16 +54,25 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 
 ## 👑 Roles & Badges
 
+---
+
 ### ☁️ Google Cloud Arcade Achievements
 
-🎯 Participating in Google Cloud Arcade – August 2025
+🎯 Participating in Google Cloud Arcade – August 2025  
+🧠 Exploring cloud skills and collecting cool badges!
 
 ### 🏅 Earned Badges:
 
-<img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%202.png" alt="Trivia Week 2 Badge" width="200"/>
-<img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%204.png" alt="Trivia Week 4 Badge" width="200"/>
+<p align="center">
+  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%201.png" alt="Week 1" width="150"/>
+  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%202.png" alt="Week 2" width="150"/>
+  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%203.png" alt="Week 3" width="150"/>
+  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%204.png" alt="Week 4" width="150"/>
+  <img src="Terraform%20Essentials.png" alt="Terraform Essentials" width="150"/>
+</p>
 
 🔗 [View My Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/d23f26ee-0383-4705-9a25-aed6766d92d5)
+
 
 ![Frontend Developer](https://img.shields.io/badge/-Frontend_Dev-blueviolet?style=for-the-badge)
 ![UI/UX Learner](https://img.shields.io/badge/-UI/UX_Learner-f472b6?style=for-the-badge)
