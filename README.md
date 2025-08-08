@@ -1,4 +1,4 @@
-<img src="https://github.com/Jaanvichouhan34/Jaanvichouhan34/blob/main/banner.png" alt="Jaanvi Chouhan Banner" style="width:100%; border-radius:12px;" />
+<img src="https://github.com/Jaanvichouhan34/Jaanvichouhan34/blob/main/cloud-banner.png" alt="Jaanvi Chouhan - Cloud Enthusiast" style="width:100%; border-radius:12px;" />>
 
 # 👋 Hi, I'm Jaanvi Chouhan
 
