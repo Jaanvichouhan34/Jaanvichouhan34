@@ -1,7 +1,7 @@
-<img src="https://github.com/Jaanvichouhan34/Jaanvichouhan34/blob/main/cloud-banner.png" alt="Jaanvi Chouhan - Cloud Enthusiast" style="width:100%; border-radius:12px;" />>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Jaanvi!.;A%203rd%20year%20B.Tech%20CSE%20student.;A%20Frontend%20Developer.;A%20Cloud%20Enthusiast.&center=true&size=20&font=Fira%20Code&duration=3000" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Jaanvi!.;A%20Frontend%20Developer.;A%20Cloud%20Enthusiast.&center=true&size=20&font=Fira%20Code&duration=3000" />
 </p>
+
+---
 # 👋 Hi, I'm Jaanvi Chouhan
 
 ## 👋 About Me <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="Small moving image" width="30" />   
