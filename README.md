@@ -20,7 +20,7 @@ I’m passionate about coding, design, and learning new technologies like **Pyth
 I enjoy turning ideas into creative, real-world projects and constantly exploring new tools to grow as a developer.
 
 > *"Design. Code. Create. Repeat."*
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## 🔥 GitHub Stats
 
@@ -28,13 +28,13 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jaanvichouhan34&theme=radical)](https://git.io/streak-stats)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Jaanvichouhan34&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## 🧠 Learning & Goals
 
@@ -47,13 +47,13 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="End GIF 2" width="500" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## 🎯 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaanvichouhan34&layout=pie&theme=radical)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## 🚀 Tech Stack & Tools
 
@@ -64,11 +64,11 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## 👑 Roles & Badges
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ### ☁️ Google Cloud Arcade Achievements
 
@@ -92,7 +92,7 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 ![UI/UX Learner](https://img.shields.io/badge/-UI/UX_Learner-f472b6?style=for-the-badge)
 ![Creative Coder](https://img.shields.io/badge/-Creative_Coder-ffb6c1?style=for-the-badge)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## 📁 My Projects
 
@@ -105,7 +105,7 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" alt="End GIF 2" width="100" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## ✨ Fun Facts About Me
 
@@ -120,7 +120,7 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 ## 📅 GitHub Activity
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=tokyo-night&color=f7768e&line=9ece6a&point=bb9af7&area=true&hide_border=true)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## 📫 Connect with Me
 
