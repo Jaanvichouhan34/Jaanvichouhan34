@@ -16,7 +16,7 @@
 
 I'm **Jaanvi Chouhan**, a 3rd-year B.Tech CSE student at **Medicaps University**.  
 I’m passionate about coding, design, and learning new technologies like **Python**, **OpenCV**, **Figma**, and **Web Development**.
-
+ <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="End GIF 2" width="400" />
 I enjoy turning ideas into creative, real-world projects and constantly exploring new tools to grow as a developer.
 
 > *"Design. Code. Create. Repeat."*
