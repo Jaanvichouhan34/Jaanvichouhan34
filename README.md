@@ -101,9 +101,6 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 ---
 
 ## 📅 GitHub Activity
-<p align="center">
-  <img src="https://github.com/Jaanvichouhan34/Jaanvichouhan34/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
-</p>
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=tokyo-night&color=f7768e&line=9ece6a&point=bb9af7&area=true&hide_border=true)
 
 ---
