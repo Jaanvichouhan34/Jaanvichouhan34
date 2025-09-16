@@ -3,7 +3,9 @@
 
 ---
 # 👋 Hi, I'm Jaanvi Chouhan
-
+<p align="corner">
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="End GIF 2" width="300" />
+</p>
 ## 👋 About Me <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="Small moving image" width="100" />   
 
 I'm **Jaanvi Chouhan**, a 3rd-year B.Tech CSE student at **Medicaps University**.  
