@@ -96,6 +96,10 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 - 🎙️ Nova-style Voice Assistant Clone
 - 🧁 Biscuit Cake App (fun mini project)
 
+
+<p align="corner">
+<img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" alt="End GIF 2" width="1000" />
+</p>
 ---
 
 ## ✨ Fun Facts About Me
