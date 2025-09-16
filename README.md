@@ -4,7 +4,7 @@
 </p>
 # 👋 Hi, I'm Jaanvi Chouhan
 
-## 👩‍💻 About Me :-
+## 👋 About Me <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="Small moving image" width="30" />   
 
 I'm **Jaanvi Chouhan**, a 3rd-year B.Tech CSE student at **Medicaps University**.  
 I’m passionate about coding, design, and learning new technologies like **Python**, **OpenCV**, **Figma**, and **Web Development**.
