@@ -1,5 +1,8 @@
- <img src="[https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Jaanvi!.;A%20Frontend%20Developer.;A%20Cloud%20Enthusiast.&center=true&size=20&font=Fira%20Code&duration=3000](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)" />
+<p align="corner">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="End GIF 2" width="300" />
 </p>
+
+
 
 
 # 👋 Hi, I'm Jaanvi Chouhan
