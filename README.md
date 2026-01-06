@@ -16,15 +16,7 @@
   <img src="https://img.shields.io/github/followers/Jaanvichouhan34?label=Followers&style=social" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake-dark.svg" />
-    <img
-      src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake.svg"
-      alt="Snake animation" />
-  </picture>
-</p>
+
 
 
 ## 👋 About Me <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="Small moving image" width="30" />   
