@@ -15,8 +15,6 @@
 </p>
 
 
-
-
 ## 👋 About Me <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="Small moving image" width="30" />   
 
 I’m **Jaanvi Chouhan**, a **MERN Stack Developer** who loves building immersive, interactive, and meaningful digital experiences.  
@@ -164,6 +162,8 @@ From **3D web experiences** and **AI-powered applications** to **scalable multi-
 
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="End GIF 2" width="400" />
+
  
   <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="End GIF 2" width="300" />
 </p>
