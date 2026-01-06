@@ -5,7 +5,7 @@
 
 #  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Small moving image" width="50" />Hi, I'm Jaanvi Chouhan     
 
-<p align="right">
+<p align="center">
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="End GIF 2" width="400" />
   </p>
