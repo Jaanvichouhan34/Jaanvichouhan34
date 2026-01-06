@@ -21,7 +21,9 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 > *"Design. Code. Create. Repeat."*
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
-![snake animation](https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake.svg)
 
 
 
