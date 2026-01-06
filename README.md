@@ -49,6 +49,10 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ## 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake.svg)
+
 
 
 ## 🔥 GitHub Stats
