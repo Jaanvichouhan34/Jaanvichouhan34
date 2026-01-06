@@ -14,17 +14,14 @@
 
 ## 👋 About Me <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="Small moving image" width="30" />   
 
-I'm **Jaanvi Chouhan**, a 3rd-year B.Tech CSE student at **Medicaps University**.  
-I’m passionate about coding, design, and learning new technologies like **Python**, **OpenCV**, **Figma**, and **Web Development**.
-I enjoy turning ideas into creative, real-world projects and constantly exploring new tools to grow as a developer.
+I’m **Jaanvi Chouhan**, a **MERN Stack Developer** who loves building immersive, interactive, and meaningful digital experiences.  
+I enjoy blending **clean UI, strong backend logic, and creative storytelling** to turn ideas into real-world products.
 
+From **3D web experiences** and **AI-powered applications** to **scalable multi-vendor platforms**, I focus on projects that challenge both my **technical depth** and **design thinking**.
+
+> *“I don’t just build apps — I build experiences.”*
 > *"Design. Code. Create. Repeat."*
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake.svg)
-
 
 
 ## 🔥 GitHub Stats
@@ -40,6 +37,10 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 ![trophy](https://github-profile-trophy.vercel.app/?username=Jaanvichouhan34&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake.svg)
 
 ## 🧠 Learning & Goals
 
@@ -101,9 +102,23 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 
 ## 📁 My Projects
 
-- 🚀 AI-Based Satellite Feature Detection (Hackathon)
-- 🎙️ Nova-style Voice Assistant Clone
-- 🧁 Biscuit Cake App (fun mini project)
+- 🎙️ **Nova-Style Voice Assistant**  
+  Smart voice assistant with speech recognition and natural responses.  
+  *Python · NLP · Speech-to-Text*
+
+- 🧏‍♀️ **Sign Language to Speech Converter**  
+  Converts hand gestures into text and spoken words using computer vision.  
+  *Python · OpenCV · Computer Vision*
+
+- 🤖 **Jennie Visualizer (3D Robot Experience)**  
+  Immersive 3D web experience where a robot deconstructs on scroll using cinematic effects.  
+  *React · React Three Fiber · Three.js · GSAP*  
+  🔗 **Live Demo:** Click Here
+
+- 🛒 **FreshHub Express**  
+  Hyperlocal multi-vendor grocery marketplace with vendor, rider, and admin dashboards.  
+  *MERN Stack · GPS-Based Logic*
+
 
 
 <p align="corner">
@@ -128,9 +143,10 @@ I enjoy turning ideas into creative, real-world projects and constantly explorin
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
 ## 📫 Connect with Me
-
+- 📧 Email: [jaanvichouhan18805@gmail.com](mailto:jaanvichouhan18805@gmail.com)
 - 🌐 Instagram: [@jaanvi_chouhan18](https://www.instagram.com/jaanvi_chouhan18)
 - 💼 LinkedIn: [Jaanvi Chouhan](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
+
 
 
 <p align="center">
