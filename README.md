@@ -43,7 +43,7 @@ From **3D web experiences** and **AI-powered applications** to **scalable multi-
 
 ##  🐍 Contribution Snake</h2>
 
-<p align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake-dark.svg" />
@@ -51,7 +51,6 @@ From **3D web experiences** and **AI-powered applications** to **scalable multi-
       src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake.svg"
       alt="GitHub contribution snake animation" />
   </picture>
-</p>
 
 
 
