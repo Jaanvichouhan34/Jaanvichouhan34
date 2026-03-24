@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%9A%9B%EF%B8%8F+%7C+AI+Builder+%F0%9F%A4%96+%7C+3D+Web+%F0%9F%8C%90;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Three.js+%C2%B7+OpenCV;Turning+ideas+into+experiences+since+2023+%F0%9F%9A%80;B.Tech+CSE+%40+Medi-Caps+University+%E2%80%A2+CGPA+8.57)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%9A%9B%EF%B8%8F+%7C+AI+Builder+%F0%9F%A4%96+%7C+3D+Web+%F0%9F%8C%90;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Three.js+%C2%B7+OpenCV;Turning+ideas+into+experiences+since+2023+%F0%9F%9A%80;B.Tech+CSE+%40+Medi-Caps+University)](https://git.io/typing-svg)
 
 <br/>
 
