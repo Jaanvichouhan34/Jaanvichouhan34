@@ -3,12 +3,8 @@
 </p>
 
 
-#  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Small moving image" width="50" />Hi, I'm Jaanvi Chouhan     
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="End GIF 2" width="600" />
-  </p>
-  
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jaanvi%20Chouhan&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Building%20things%20that%20make%20people%20go%20%E2%80%9Cwait%2C%20that%27s%20a%20website%3F%22&descSize=16&descAlignY=62&descColor=c084fc" width="100%"/>
 
 <div align="center">
@@ -27,8 +23,25 @@
 <img src="https://komarev.com/ghpvc/?username=Jaanvichouhan34&label=Profile+Views&color=c084fc&style=flat-square" />
 
 </div>
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
+
+
+
+
+
+#  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Small moving image" width="50" />Hi, I'm Jaanvi Chouhan     
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="End GIF 2" width="600" />
+  </p>
+  
+
+
+
+
+
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jaanvichouhan34&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
