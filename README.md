@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=firefox&logoColor=c084fc)](https://jaanvichouhan34.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=firefox&logoColor=c084fc)](https://portfolio-seven-blue-4jrm6eqqd4.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
 [![Instagram](https://img.shields.io/badge/Instagram-0f0f0f?style=for-the-badge&logo=instagram&logoColor=c084fc)](https://www.instagram.com/jaanvi_chouhan18)
 [![Gmail](https://img.shields.io/badge/Gmail-0f0f0f?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:jaanvichouhan18805@gmail.com)
