@@ -1,4 +1,5 @@
-<!-- HEADER SECTION -->
+# <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Hi" width="50" /> Hi, I'm Jaanvi Chouhan
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Jaanvi%20Chouhan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20AI%20%C2%B7%203D%20Web&descSize=20&descAlignY=60&theme=tokyonight" width="100%" />
 </p>
@@ -101,7 +102,11 @@ Currently focused on architecting modular MERN applications and exploring the bo
 - **B.Tech CSE @ Medi-Caps University**: Focus on Algorithms and System Design.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%201.png" alt="Week 1" width="150"/>
+  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%202.png" alt="Week 2" width="150"/>
+  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%203.png" alt="Week 3" width="150"/>
+  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%204.png" alt="Week 4" width="150"/>
+  <img src="Terraform%20Essentials.png" alt="Terraform Essentials" width="150"/>
 </p>
 
 ---
@@ -129,3 +134,9 @@ Currently focused on architecting modular MERN applications and exploring the bo
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
