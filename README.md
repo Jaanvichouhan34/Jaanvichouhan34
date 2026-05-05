@@ -1,26 +1,50 @@
-# <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Hi" width="50" /> Hi, I'm Jaanvi Chouhan
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Jaanvi%20Chouhan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20AI%20%C2%B7%203D%20Web&descSize=20&descAlignY=60&theme=tokyonight" width="100%" />
+<p align="corner">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="End GIF 2" width="1000" />
 </p>
+
+#  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Small moving image" width="50" />Hi, I'm Jaanvi Chouhan     
+
+
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jaanvi%20Chouhan&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Building%20things%20that%20make%20people%20go%20%E2%80%9Cwait%2C%20that%27s%20a%20website%3F%22&descSize=16&descAlignY=62&descColor=c084fc" width="100%"/> -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Digital+Ecosystems;Specializing+in+MERN+Stack+%2B+Three.js;Building+AI-Powered+Human+Interfaces;Transforming+Complex+Ideas+into+Seamless+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%9A%9B%EF%B8%8F+%7C+AI+Builder+%F0%9F%A4%96+%7C+3D+Web+%F0%9F%8C%90;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Three.js+%C2%B7+OpenCV;Turning+ideas+into+experiences+since+2023+%F0%9F%9A%80;B.Tech+CSE+%40+Medi-Caps+University)](https://git.io/typing-svg)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=firefox&logoColor=c084fc)](https://portfolio-seven-blue-4jrm6eqqd4.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
-[![Email](https://img.shields.io/badge/Gmail-0f0f0f?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:jaanvichouhan18805@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0f0f0f?style=for-the-badge&logo=instagram&logoColor=c084fc)](https://www.instagram.com/jaanvi_chouhan18)
+[![Gmail](https://img.shields.io/badge/Gmail-0f0f0f?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:jaanvichouhan18805@gmail.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jaanvichouhan34&label=SYSTEM_ACCESS_COUNT&color=c084fc&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Jaanvichouhan34&label=Profile+Views&color=c084fc&style=flat-square" />
 
 </div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
----
+
+
+
+
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="End GIF 2" width="600" />
+  </p>
+  
+
+
+
+
+
+<!--  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaanvichouhan34&label=Profile%20Views&color=ff69b4&style=flat" />
+</p> -->
+
 
 ## ⚡ Executive Summary
 
@@ -30,76 +54,104 @@ Currently focused on architecting modular MERN applications and exploring the bo
 
 > *"I don't just write code; I design experiences that scale."*
 
----
 
-## 🛠️ Technology Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+
+## 🔥 GitHub Stats
+
+![Jaanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaanvichouhan34&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaanvichouhan34&theme=radical)](https://git.io/streak-stats)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Jaanvichouhan34&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+##  🐍 Contribution Snake</h2>
+
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake-dark.svg" />
+    <img
+      src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake animation" />
+  </picture>
+
+
+
+## 🧠 Learning & Goals
+
+- 📘 Mastering Python for real-world apps
+- 🎨 Practicing UI/UX with Figma & Tailwind CSS
+- 📸 Exploring OpenCV for image tasks
+- 🚀 Building creative and fun personal projects
+
+<p align="corner">
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="End GIF 2" width="500" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+## 🎯 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaanvichouhan34&layout=pie&theme=radical)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+<!-- TECH STACK -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="42"/> &nbsp;Tech Stack
 
 <div align="center">
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&theme=dark" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,html,css,figma&theme=dark" /> |
-| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,flask,firebase,googlecloud&theme=dark" /> |
-| **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,docker&theme=dark" /> |
+<br/>
+
+**— Languages —**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c&theme=dark" />
+
+<br/><br/>
+
+**— Frontend —**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,html,css,figma&theme=dark" />
+
+<br/><br/>
+
+**— Backend & AI —**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,opencv&theme=dark" />
+
+<br/><br/>
+
+**— Tools —**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,framer&theme=dark" />
+
+<br/>
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Engineering Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Jennie Visualizer (3D Experience)</h4>
-      <p>An immersive 3D robotics deconstruction engine built with <b>React Three Fiber</b> and <b>GSAP</b>. Features cinematic scroll-bound animations and optimized asset loading.</p>
-      <code>React</code> <code>Three.js</code> <code>R3F</code> <code>GSAP</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛒 FreshHub Express</h4>
-      <p>A hyperlocal multi-vendor marketplace architected for scale. Implements complex <b>GPS-based vendor-rider-customer logic</b> and real-time order tracking.</p>
-      <code>MERN Stack</code> <code>Socket.io</code> <code>Google Maps API</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎙️ Nova-Style AI Assistant</h4>
-      <p>Real-time NLP-driven voice assistant utilizing <b>Speech-to-Text</b> and <b>Natural Language Processing</b> to handle complex user queries with minimal latency.</p>
-      <code>Python</code> <code>NLP</code> <code>Pyttsx3</code> <code>SpeechRecognition</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧏 Sign Language Translator</h4>
-      <p>A <b>Computer Vision</b> pipeline that leverages <b>OpenCV</b> to detect hand gestures in real-time and translate them into synthesized speech.</p>
-      <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>DL</code>
-    </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
----
+## 👑 Roles & Badges
 
-## 📊 Engineering Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaanvichouhan34&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF&icon_color=C084FC" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaanvichouhan34&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF" width="48%" />
-</p>
+### ☁️ Google Cloud Arcade Achievements
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaanvichouhan34&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC" width="100%" />
-</p>
+🎯 Participating in Google Cloud Arcade – August 2025  
+🧠 Exploring cloud skills and collecting cool badges!
 
-<div align="center">
-  <h4>🏆 GitHub Trophies</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaanvichouhan34&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
-</div>
-
----
-
-## ☁️ Certifications & Accomplishments
-
-- **Google Cloud Arcade Achievement**: Specialized in Cloud Infrastructure and Terraform essentials (August 2025).
-- **B.Tech CSE @ Medi-Caps University**: Focus on Algorithms and System Design.
+### 🏅 Earned Badges:
 
 <p align="center">
   <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%201.png" alt="Week 1" width="150"/>
@@ -111,40 +163,68 @@ Currently focused on architecting modular MERN applications and exploring the bo
 
 🔗 [View My Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/d23f26ee-0383-4705-9a25-aed6766d92d5)
 
----
+
+![Frontend Developer](https://img.shields.io/badge/-Frontend_Dev-blueviolet?style=for-the-badge)
+![UI/UX Learner](https://img.shields.io/badge/-UI/UX_Learner-f472b6?style=for-the-badge)
+![Creative Coder](https://img.shields.io/badge/-Creative_Coder-ffb6c1?style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+## 📁 My Projects
+
+- 🎙️ **Nova-Style Voice Assistant**  
+  Smart voice assistant with speech recognition and natural responses.  
+  *Python · NLP · Speech-to-Text*
+
+- 🧏‍♀️ **Sign Language to Speech Converter**  
+  Converts hand gestures into text and spoken words using computer vision.  
+  *Python · OpenCV · Computer Vision*
+
+- 🤖 **Jennie Visualizer (3D Robot Experience)**  
+  Immersive 3D web experience where a robot deconstructs on scroll using cinematic effects.  
+  *React · React Three Fiber · Three.js · GSAP*  
+  🔗 **Live Demo:** Click Here
+
+- 🛒 **FreshHub Express**  
+  Hyperlocal multi-vendor grocery marketplace with vendor, rider, and admin dashboards.  
+  *MERN Stack · GPS-Based Logic*
+
+
+
+<p align="corner">
+<img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" alt="End GIF 2" width="100" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+## ✨ Fun Facts About Me
+
+- 🧋 I love clean UI design
+- 🎥 I enjoy editing aesthetic videos
+- 🧁 I once made a cake using biscuits and Python 🤭
+
+> *“Code is my canvas, creativity is my tool.”*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
 ## 📅 GitHub Activity
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=tokyo-night&color=f7768e&line=9ece6a&point=bb9af7&area=true&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
 
----
+## 📫 Connect with Me
+- 📧 Email: [jaanvichouhan18805@gmail.com](mailto:jaanvichouhan18805@gmail.com)
+- 🌐 Instagram: [@jaanvi_chouhan18](https://www.instagram.com/jaanvi_chouhan18)
+- 💼 LinkedIn: [Jaanvi Chouhan](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
 
-## 📬 Connect & Collaborate
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaanvi-chouhan-b83158313">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jaanvichouhan18805@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-seven-blue-4jrm6eqqd4.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-
-*"Code is the canvas, Engineering is the brush."*
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-
-</div>
-
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+
+ 
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="End GIF 2" width="300" />
 </p>
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+> *"Design. Code. Create. Repeat."*
