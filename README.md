@@ -110,6 +110,12 @@ Currently focused on architecting modular MERN applications and exploring the bo
 </p>
 
 ---
+## 📅 GitHub Activity
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Jaanvichouhan34&theme=tokyo-night&color=f7768e&line=9ece6a&point=bb9af7&area=true&hide_border=true)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+---
 
 ## 📬 Connect & Collaborate
 
