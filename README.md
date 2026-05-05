@@ -47,6 +47,15 @@ Currently focused on architecting modular MERN applications and exploring the bo
 
 ---
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Jaanvichouhan34&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
+---
+
+
 ## 🚀 Featured Engineering Projects
 
 <table width="100%">
@@ -137,6 +146,21 @@ Currently focused on architecting modular MERN applications and exploring the bo
 
 *"Code is the canvas, Engineering is the brush."*
 
+## 📫 Connect with Me
+- 📧 Email: [jaanvichouhan18805@gmail.com](mailto:jaanvichouhan18805@gmail.com)
+- 🌐 Instagram: [@jaanvi_chouhan18](https://www.instagram.com/jaanvi_chouhan18)
+- 💼 LinkedIn: [Jaanvi Chouhan](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
+
+
+
+<p align="center">
+
+ 
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="End GIF 2" width="300" />
+</p>
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="End GIF 1" width="2000" />
+
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -148,3 +172,4 @@ Currently focused on architecting modular MERN applications and exploring the bo
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
+
