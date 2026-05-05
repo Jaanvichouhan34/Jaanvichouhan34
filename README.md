@@ -98,10 +98,6 @@ Currently focused on architecting modular MERN applications and exploring the bo
   <img src="https://streak-stats.demolab.com?user=Jaanvichouhan34&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC" width="100%" />
 </p>
 
-<div align="center">
-  <h4>🏆 GitHub Trophies</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaanvichouhan34&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
-</div>
 
 ---
 
