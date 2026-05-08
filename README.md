@@ -1,4 +1,4 @@
-.# <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Hi" width="50" /> Hi, I'm Jaanvi Chouhan
+..# <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Hi" width="50" /> Hi, I'm Jaanvi Chouhan
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Jaanvi%20Chouhan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20AI%20%C2%B7%203D%20Web&descSize=20&descAlignY=60&theme=tokyonight" width="100%" />
