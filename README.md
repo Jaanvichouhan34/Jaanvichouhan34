@@ -5,8 +5,7 @@
 <div align="center">
 
 <!-- TOP HALF OF POKEBALL -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6d28d9,50:c084fc,100:818cf8&height=140&section=header&text=&animation=fadeIn" width="100%" />
-
+<p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
 <details open>
 <summary>✨ Open Profile ✨</summary>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
@@ -295,7 +294,7 @@ One of my all-time favourites:
 </details>
 
 <!-- BOTTOM HALF OF POKEBALL -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:818cf8,50:c084fc,100:6d28d9&height=140&section=footer&text=&animation=fadeIn" width="100%" />
+<p><img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball"></p>
 
 </div>
  <p align="center">
