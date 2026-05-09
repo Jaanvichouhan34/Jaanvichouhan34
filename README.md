@@ -33,14 +33,11 @@
  * @param {string}  location       - Indore, Madhya Pradesh, India 🇮🇳
  * @param {string}  languages      - Hindi (native), English (fluent)
  * @param {string}  education      - B.Tech CSE @ Medi-Caps University (2023–2027)
- * @param {number}  cgpa           - 8.57 / 10
  * @param {string}  jobTitle       - Full-Stack Developer + AI Builder
  * @param {string}  specialization - MERN Stack · AI API Integrations · 3D Web
  * @param {string}  currentBuild   - VoiceDoc 🩺 — AI medical scribe for rural India
- * @param {string}  achievements   - Smart India Hackathon (2023 & 2024), GSSoC 2025
  * @param {string}  interests      - AI, open source, system design, problem-solving
- * @param {string}  hobbies        - Hackathons, cricket, fests, competitive coding
- * @param {string}  funFact        - Placed 2nd in Gully Cricket AND Tug of War 🏏💪
+ * @param {string}  hobbies        - Hackathons, cricket, sketching, competitive coding
  * @param {string}  strength       - Ships fast. Learns faster.
  * @param {string}  weakness       - Cannot stop adding features once in flow state.
  * @param {Date}    graduating     - Expected May 2027
