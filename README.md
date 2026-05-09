@@ -298,6 +298,7 @@ One of my all-time favourites:
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:818cf8,50:c084fc,100:6d28d9&height=140&section=footer&text=&animation=fadeIn" width="100%" />
 
 </div>
+   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jaanvi-chouhan">
@@ -316,7 +317,3 @@ One of my all-time favourites:
 
 <hr/>
 
-<p align="center">
-  Inspired by <a href="https://github.com/Austinae">Austinae</a>'s Pokéball template &nbsp;·&nbsp;
-  Crafted with 💜 by <a href="https://github.com/Jaanvichouhan34">Jaanvi Chouhan</a>
-</p>
