@@ -298,7 +298,9 @@ One of my all-time favourites:
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:818cf8,50:c084fc,100:6d28d9&height=140&section=footer&text=&animation=fadeIn" width="100%" />
 
 </div>
+ <p align="center">
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
+</p> 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jaanvi-chouhan">
