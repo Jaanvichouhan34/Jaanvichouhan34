@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=3000&pause=400&color=C084FC&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Jaanvi+Chouhan+%F0%9F%91%8B;3rd+Year+CSE+%40+Medi-Caps+University;MERN+Stack+Developer+%F0%9F%9A%80;AI+API+Integration+Specialist+%F0%9F%A4%96;Smart+India+Hackathon+2x+%F0%9F%8F%86;GSSoC+2025+Contributor+%F0%9F%8C%9F;Hackathon+Enthusiast+%E2%9A%94%EF%B8%8F;Gully+Cricket+Champion+%F0%9F%8F%8F;Building+things+that+matter+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=3000&pause=400&color=C084FC&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Jaanvi+Chouhan+%F0%9F%91%8B;3rd+Year+CSE+%40+Medi-Caps+University;MERN+Stack+Developer+%F0%9F%9A%80;AI+API+Integration+Specialist+%F0%9F%A4%96;Guitar+player+%F0%9F%8C%9F;Hackathon+Enthusiast+%E2%9A%94%EF%B8%8F;Thrill+seeker+%F0%9F%8F%8F;Building+things+that+matter+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <br/>
