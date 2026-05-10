@@ -256,7 +256,7 @@ One of my all-time favourites:
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 </details>
