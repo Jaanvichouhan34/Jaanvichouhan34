@@ -178,14 +178,12 @@
 <summary><b>🏅 Achievements & Certifications</b></summary>
 <br/>
 
-- 🏆 **Smart India Hackathon** — Selected 2x (2023 & 2024) out of thousands of teams
 - 🌟 **GSSoC 2025** — Open Source Contributor (Girl Script Summer of Code)
 - ☁️ **Google Cloud Skill Boost** — Cloud Infrastructure & Terraform Essentials (August 2025)
 - 📜 **DSA in Java** — Physics Wallah Certification
 - 🐍 **Python Essentials 1 & 2** — Python Institute (Cisco)
 - 🔧 **Git/GitHub** — Geekster Certification
-- 🌐 **Advanced Networking / CCNA** — Cisco NetAcad *(in progress)*
-- 🏏 **Moonstone Fest** — 2nd place in Gully Cricket & Tug of War
+- 🌐 **Advanced Networking / CCNA** — Cisco NetAcad 
 
 <p align="center">
   <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%201.png" alt="Week 1" width="130"/>
