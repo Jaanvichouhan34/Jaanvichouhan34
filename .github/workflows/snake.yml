@@ -15,9 +15,8 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Jaanvichouhan34
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+outputs: |
+  dist/github-contribution-grid-snake.svg?color_snake=#6366f1&color_dots=#fff0f6,#e879f7,#a78bfa,#e879f9,#f472b6
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
