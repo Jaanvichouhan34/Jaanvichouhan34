@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: Jaanvichouhan34
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#6366f1&color_dots=#fff0f6,#e879f7,#a78bfa,#e879f9,#f472b6
+            dist/github-contribution-grid-snake.svg?color_snake=%236366f1&color_dots=%23fff0f6,%23e879f7,%23a78bfa,%23e879f9,%23f472b6
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
