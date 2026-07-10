@@ -6,7 +6,7 @@
 
 <!-- TERMINAL-STYLE ASCII PROFILE -->
 <p>
-  <img src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/main/jaanvi_ascii_fetch.png" alt="Jaanvi Chouhan ASCII Profile" width="850"/>
+  <img src="https://raw.githubusercontent.com/Jaanvichouhan34/Jaanvichouhan34/main/jaanvi_ascii_mono.png" alt="Jaanvi Chouhan ASCII Profile" width="850"/>
 </p>
 
 <br/>
