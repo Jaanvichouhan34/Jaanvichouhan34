@@ -11,36 +11,6 @@
 <summary>✨ Open Profile ✨</summary>..
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=3000&pause=400&color=C084FC&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Jaanvi+Chouhan+%F0%9F%91%8B;CSE+%40+Medi-Caps+University;MERN+Stack+Developer+%F0%9F%9A%80;AI+API+Integration+Specialist+%F0%9F%A4%96;Guitar+player+%F0%9F%8C%9F;Hackathon+Enthusiast+%E2%9A%94%EF%B8%8F;Thrill+seeker+%F0%9F%8F%8F;Building+things+that+matter+%F0%9F%92%A1" alt="Typing SVG" />
-</di
-
-<br/>
-
----
-
-<details>
-<summary><b>💻 About Me</b></summary>
-<br/>
-<div align="left">
-
-```javascript
-/**
- * Represents Jaanvi Chouhan.
- *
- * @constructor
- * @param {string}  location       - Indore, Madhya Pradesh, India 🇮🇳
- * @param {string}  languages      - Hindi (native), English (fluent)
- * @param {string}  education      - B.Tech CSE @ Medi-Caps University (2023–2027)
- * @param {string}  jobTitle       - Full-Stack Developer + AI Builder
- * @param {string}  specialization - MERN Stack · AI API Integrations · 3D Web
- * @param {string}  currentBuild   - VoiceDoc 🩺 — AI medical scribe for rural India
- * @param {string}  interests      - AI, open source, system design, problem-solving
- * @param {string}  hobbies        - Hackathons, cricket, sketching, competitive coding
- * @param {string}  strength       - Ships fast. Learns faster.
- * @param {string}  weakness       - Cannot stop adding features once in flow state.
  * @param {Date}    graduating     - Expected May 2027
  * @throws  {Error}                - On spaghetti code and unindented HTML
  * @returns {Developer}            - Jaanvi Chouhan ✨
