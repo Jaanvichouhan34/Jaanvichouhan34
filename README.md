@@ -75,6 +75,7 @@
   <kbd>
     <kbd>Tools</kbd>
     <br/><br/>
+    
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"/>
