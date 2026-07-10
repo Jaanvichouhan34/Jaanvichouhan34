@@ -44,36 +44,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📈 ElevateU — AI Personal Dev Platform</h4>
-      <p>Personal growth platform with an <b>Outfit Scanner</b> (OpenAI Vision), Event Prep Guide, and Communication Skills Trainer. Fully documented with UML diagrams.</p>
-      <code>React</code> <code>OpenAI API</code> <code>Node.js</code> <code>MongoDB</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧮 AuraCalc — Aesthetic Calculator</h4>
-      <p>Beautifully animated calculator with custom SVG hero illustrations in light/dark mode, glassmorphism UI, and smooth micro-interactions built with React + Vite.</p>
-      <code>React</code> <code>Vite</code> <code>Framer Motion</code> <code>SVG</code>
-    </td>
-  </tr>
-</table>
-
-</details>
-
----
-
-<details>
-
-</details>
-
----
-
-<details>
-<summary><b>💊 Free DOSE Hit</b></summary>
-<br/>
-<small><i>DOSE = Dopamine · Oxytocin · Serotonin · Endorphin — refresh if dose was ineffective 😄</i></small>
-<br/><br/>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Dev Joke" />
-</div>
+    
 
 </details>
 
