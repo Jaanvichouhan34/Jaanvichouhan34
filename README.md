@@ -61,39 +61,6 @@
 ---
 
 <details>
-<summary><b>🏅 Achievements & Certifications</b></summary>
-<br/>
-
-- 🌟 **GSSoC 2025** — Open Source Contributor (Girl Script Summer of Code)
-- ☁️ **Google Cloud Skill Boost** — Cloud Infrastructure & Terraform Essentials (August 2025)
-- 📜 **DSA in Java** — Physics Wallah Certification
-- 🐍 **Python Essentials 1 & 2** — Python Institute (Cisco)
-- 🔧 **Git/GitHub** — Geekster Certification
-- 🌐 **Advanced Networking / CCNA** — Cisco NetAcad 
-
-<p align="center">
-  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%201.png" alt="Week 1" width="130"/>
-  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%202.png" alt="Week 2" width="130"/>
-  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%203.png" alt="Week 3" width="130"/>
-  <img src="Skills%20Boost%20Arcade%20Trivia%20August%202025%20Week%204.png" alt="Week 4" width="130"/>
-  <img src="Terraform%20Essentials.png" alt="Terraform" width="130"/>
-</p>
-
-🔗 [View My Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/d23f26ee-0383-4705-9a25-aed6766d92d5)
-
-</details>
-
----
-
-<details>
-<summary><b>💬 My Favourite Quote</b></summary>
-<br/>
-
-One of my all-time favourites:
-
-> *"Can I say something? Um, I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer."*
->
-> **— Chris Gardner, interpreted by Will Smith in "The Pursuit of Happyness" (2006)**
 
 </details>
 
