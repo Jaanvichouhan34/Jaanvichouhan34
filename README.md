@@ -3,19 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Jaanvichouhan34&label=Profile+Views&color=c084fc&style=flat-square" alt="Profile Views" />
 </p>
 
-<div align="center">
 
-<!-- TOP HALF OF POKEBALL -->
-<p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
-<details >
-<summary>✨ Open Profile ✨</summary>..
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="
-
- * @param {Date}    graduating     - Expected May 2027
- * @throws  {Error}                - On spaghetti code and unindented HTML
- * @returns {Developer}            - Jaanvi Chouhan ✨
- */
-```
 
 </div>
 </details>
